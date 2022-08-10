@@ -1,0 +1,1 @@
+Simple bloging web application. In this system any internet user can see and search specific blog , to create a blog user muset create e-blog account. A user with e-blog account can create blog edit and can delete blogs.
